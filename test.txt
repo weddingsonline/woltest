@@ -1,2 +1,4 @@
+<?php
 echo 'Hello World :)<BR>';
+echo 'This is a test file to check if Git settings work well<BR>';
 ?>
